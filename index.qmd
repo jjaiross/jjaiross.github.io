@@ -1,0 +1,29 @@
+---
+title: "José Jairo de Santana e Silva"
+---
+
+## Estatística, Machine Learning e IA Aplicada
+
+Doutor em Estatística, professor do ensino superior e pesquisador em modelos estatísticos,
+séries temporais, aprendizado de máquina e ciência de dados.
+
+Atuo com Estatística, Probabilidade, Machine Learning, Python, R, SQL, modelos para dados limitados,
+testes de especificação e aplicações de IA no ensino e na análise de dados.
+
+### Áreas de interesse
+
+- Statistical modeling
+- Time series for bounded data
+- Machine learning
+- Data science
+- Applied artificial intelligence
+- Statistical education
+- Python, R and SQL
+
+### Projetos em destaque
+
+- RUBXII-ARMA models for bounded time series
+- Information matrix tests for model specification
+- AI-assisted data analysis workflows
+- RAG assistants for academic documents
+- Computer vision teaching materials
