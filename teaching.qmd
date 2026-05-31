@@ -8,16 +8,13 @@ Tenho experiência no ensino de disciplinas relacionadas a Estatística, Probabi
 
 ## Materiais de disciplinas
 
-### Visão Computacional
+::: {.card-grid}
+::: {.card}
+### [Visão Computacional](disciplinas/visao-computacional.qmd)
 
-- [Aula 01 - Visão Computacional](files/disciplinas/visao-computacional/aula-01-visao-computacional.pdf)
-- [Aulas 02 e 03 - Visão Computacional](files/disciplinas/visao-computacional/aulas-02-03-visao-computacional.pdf)
-- [Aula 04 - Visão Computacional](files/disciplinas/visao-computacional/aula-04-visao-computacional.pdf)
-- [Aula 05 - Visão Computacional](files/disciplinas/visao-computacional/aula-05-visao-computacional.pdf)
-- [Aula 06 - Visão Computacional](files/disciplinas/visao-computacional/aula-06-visao-computacional.pdf)
-- [Aula 07 - Visão Computacional](files/disciplinas/visao-computacional/aula-07-visao-computacional.pdf)
-- [Aula 08 - Visão Computacional](files/disciplinas/visao-computacional/aula-08-visao-computacional.pdf)
-- [Aula 09 - Visão Computacional](files/disciplinas/visao-computacional/aula-09-visao-computacional.pdf)
+Slides em PDF sobre fundamentos de imagens digitais, segmentação, filtros, contornos, extração de características, classificação e OpenCV.
+:::
+:::
 
 ## Disciplinas e áreas
 
