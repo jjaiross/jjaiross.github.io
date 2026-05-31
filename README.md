@@ -1,109 +1,97 @@
 # Site pessoal de José Jairo de Santana e Silva
 
-Este repositório contém um site pessoal/acadêmico feito com **Quarto** e preparado para ser publicado no **GitHub Pages**.
+Site acadêmico e profissional construído com **Quarto** e publicado em **GitHub Pages** no endereço [jjaiross.github.io](https://jjaiross.github.io).
 
 ## Estrutura
 
 ```text
 site_jose_jairo_quarto/
-├── _quarto.yml
-├── index.qmd
-├── about.qmd
-├── research.qmd
-├── projects.qmd
-├── publications.qmd
-├── teaching.qmd
-├── software.qmd
-├── posts.qmd
-├── cv.qmd
-├── contact.qmd
-├── styles.css
-├── images/
-├── files/
-├── posts/
+├── _quarto.yml                  # configuração global do site
+├── styles.css                   # estilos personalizados
+├── index.qmd                    # página inicial
+├── about.qmd                    # sobre
+├── research.qmd                 # pesquisa
+├── projects.qmd                 # projetos
+├── publications.qmd             # publicações
+├── teaching.qmd                 # ensino (lista de disciplinas)
+├── software.qmd                 # código
+├── posts.qmd                    # notas (índice)
+├── cv.qmd                       # currículo
+├── contact.qmd                  # contato
+├── disciplinas/                 # páginas individuais de cada disciplina
+│   ├── visao-computacional.qmd
+│   ├── modelagem-computacional.qmd
+│   └── programacao-computadores.qmd
+├── posts/                       # arquivos das notas (um por post)
+├── images/                      # imagens do site
+├── files/                       # PDFs (CV e materiais de disciplinas)
+│   ├── cv_jose_jairo.pdf
+│   └── disciplinas/             # PDFs organizados por disciplina
+├── docs/                        # saída do Quarto (gerada por quarto render)
+├── COMO_PUBLICAR.md             # instruções de publicação
 └── .github/workflows/publish.yml
 ```
 
-## O que editar primeiro
+## Visualização local
 
-Edite nesta ordem:
-
-1. `index.qmd`, página inicial.
-2. `about.qmd`, sobre você.
-3. `projects.qmd`, seus projetos.
-4. `publications.qmd`, suas publicações.
-5. `teaching.qmd`, disciplinas e materiais.
-6. `cv.qmd`, currículo.
-7. `contact.qmd`, contato.
-
-## Como publicar no GitHub
-
-### 1. Crie um repositório no GitHub
-
-Crie um repositório com o nome:
-
-```text
-jjaiross.github.io
-```
-
-Se seu usuário do GitHub for outro, use:
-
-```text
-SEU_USUARIO.github.io
-```
-
-### 2. Envie os arquivos para o GitHub
-
-Dentro da pasta deste projeto, rode:
+Requer o **Quarto 1.9+** instalado.
 
 ```bash
-git init
-git add .
-git commit -m "Create personal website"
-git branch -M main
-git remote add origin https://github.com/jjaiross/jjaiross.github.io.git
-git push -u origin main
-```
-
-Troque `jjaiross` pelo seu usuário do GitHub, se for diferente.
-
-### 3. Configure o GitHub Pages
-
-No GitHub:
-
-1. Entre no repositório.
-2. Vá em **Settings**.
-3. Vá em **Pages**.
-4. Em **Build and deployment**, escolha **GitHub Actions**.
-5. Salve.
-
-O arquivo `.github/workflows/publish.yml` vai renderizar o site automaticamente.
-
-### 4. Acesse o site
-
-Depois de alguns minutos, o site deve aparecer em:
-
-```text
-https://jjaiross.github.io
-```
-
-## Como testar localmente com Quarto
-
-Se tiver o Quarto instalado, rode:
-
-```bash
+# servidor local com recarregamento automático
 quarto preview
+
+# renderização do site completo na pasta docs/
+quarto render
+
+# renderização de uma página específica
+quarto render publications.qmd
 ```
 
-Para gerar os arquivos HTML:
+## Publicação no GitHub Pages
+
+O site é publicado automaticamente pelo **GitHub Actions** (`.github/workflows/publish.yml`) a cada `git push` na branch `main`.
+
+Fluxo padrão de atualização:
 
 ```bash
-quarto render
+# 1. edite o(s) .qmd desejado(s)
+# 2. teste localmente com quarto preview
+# 3. commit e push
+git add <arquivos>
+git commit -m "mensagem descritiva"
+git push
 ```
+
+O workflow renderiza o Quarto e publica em `https://jjaiross.github.io` em alguns minutos.
+
+## Como adicionar conteúdo
+
+### Nova publicação
+
+Edite `publications.qmd` adicionando uma entrada com título, autores, periódico, DOI e descrição. Use o padrão das entradas existentes.
+
+### Nova disciplina
+
+1. Crie `disciplinas/<nome-da-disciplina>.qmd` com front matter `title`, `description` e listas de slides e conteúdos.
+2. Coloque os PDFs em `files/disciplinas/<nome-da-disciplina>/`.
+3. Adicione um `.card` em `teaching.qmd` apontando para a página criada.
+
+Use **nomes sem acentos e sem espaços** nas pastas e arquivos (ex.: `programacao-computadores`) para evitar problemas de URL.
+
+### Nova nota (post)
+
+Crie `posts/<ano-mes-dia-slug>.qmd` com front matter `title`, `date`, `description` e `categories`. O índice em `posts.qmd` lista automaticamente em ordem decrescente.
+
+### Trocar CV em PDF
+
+Substitua o arquivo `files/cv_jose_jairo.pdf` pelo novo. O link em `cv.qmd` não precisa ser alterado.
+
+### Trocar imagem de perfil
+
+Substitua `images/foto-jose-jairo.jpeg` pelo novo arquivo com o mesmo nome (ou edite a referência em `index.qmd`).
 
 ## Observações
 
-- A pasta `docs/` será criada automaticamente quando o site for renderizado.
-- A publicação pelo GitHub Actions não exige que você rode `quarto render` no seu computador.
-- Para trocar a imagem de perfil, coloque sua foto em `images/` e edite o arquivo `index.qmd`.
-- Para colocar seu CV em PDF, salve o arquivo dentro de `files/` e edite `cv.qmd`.
+- A pasta `docs/` é gerada automaticamente pelo Quarto e contém o site renderizado servido pelo GitHub Pages.
+- O front matter YAML no topo de cada `.qmd` controla título, descrição (usada em meta tags e Open Graph) e outras opções.
+- Para detalhes adicionais de publicação, consulte `COMO_PUBLICAR.md`.
