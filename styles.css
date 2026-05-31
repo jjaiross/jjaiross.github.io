@@ -1,0 +1,135 @@
+/* Estilo geral */
+
+:root {
+  --jj-primary: #1f4e79;
+  --jj-secondary: #f5f7fb;
+  --jj-text: #1f2933;
+  --jj-muted: #5f6b7a;
+  --jj-border: #dde3ea;
+}
+
+body {
+  color: var(--jj-text);
+}
+
+.navbar-title {
+  font-weight: 700;
+}
+
+h1, h2, h3 {
+  font-weight: 700;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* Hero da página inicial */
+
+.hero-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 2.3fr) minmax(220px, 0.7fr);
+  gap: 2rem;
+  align-items: center;
+  padding: 2.5rem;
+  border-radius: 24px;
+  background: linear-gradient(135deg, #f5f7fb, #ffffff);
+  border: 1px solid var(--jj-border);
+  margin-bottom: 2rem;
+}
+
+.hero-text h1 {
+  font-size: 2.6rem;
+  margin-bottom: 0.5rem;
+}
+
+.hero-text h2 {
+  font-size: 1.35rem;
+  color: var(--jj-primary);
+  font-weight: 600;
+  margin-bottom: 1rem;
+}
+
+.hero-photo img {
+  width: 220px;
+  max-width: 100%;
+  border-radius: 50%;
+  display: block;
+  margin: auto;
+  border: 6px solid white;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.08);
+}
+
+/* Botões */
+
+.hero-buttons {
+  margin-top: 1.2rem;
+  display: flex;
+  gap: 0.7rem;
+  flex-wrap: wrap;
+}
+
+.btn {
+  display: inline-block;
+  padding: 0.55rem 0.9rem;
+  border-radius: 999px;
+  font-weight: 600;
+  border: 1px solid var(--jj-primary);
+}
+
+.btn-primary {
+  background: var(--jj-primary);
+  color: white !important;
+}
+
+.btn-outline {
+  color: var(--jj-primary) !important;
+  background: white;
+}
+
+/* Cards */
+
+.card-grid,
+.project-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.1rem;
+  margin: 1.5rem 0;
+}
+
+.card,
+.project-card {
+  padding: 1.25rem;
+  border-radius: 18px;
+  border: 1px solid var(--jj-border);
+  background: white;
+  box-shadow: 0 8px 22px rgba(0,0,0,0.04);
+}
+
+.card h3,
+.project-card h3 {
+  color: var(--jj-primary);
+  margin-top: 0;
+}
+
+.project-card {
+  min-height: 210px;
+}
+
+/* Responsivo */
+
+@media (max-width: 800px) {
+  .hero-grid {
+    grid-template-columns: 1fr;
+    padding: 1.5rem;
+  }
+
+  .hero-text h1 {
+    font-size: 2rem;
+  }
+
+  .card-grid,
+  .project-grid {
+    grid-template-columns: 1fr;
+  }
+}

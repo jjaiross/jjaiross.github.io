@@ -1,0 +1,60 @@
+---
+title: "Pesquisa"
+---
+
+# Pesquisa
+
+Minha pesquisa está concentrada em modelagem estatística, séries temporais, testes de especificação, inferência, simulação e aplicações computacionais.
+
+## Linhas de pesquisa
+
+### Séries temporais para dados limitados
+
+Estudo de modelos para séries temporais com valores no intervalo unitário, incluindo distribuições como beta, Kumaraswamy e Burr XII unitária refletida.
+
+Temas associados:
+
+- estrutura ARMA para dados no intervalo unitário;
+- estimação por máxima verossimilhança condicional;
+- diagnóstico de modelos;
+- previsão;
+- aplicações em indicadores ambientais, hidrológicos e energéticos.
+
+### Testes de especificação
+
+Estudo de testes baseados na igualdade da matriz de informação, com aplicações em modelos de regressão e séries temporais.
+
+Temas associados:
+
+- estatísticas de teste;
+- desempenho em amostras finitas;
+- bootstrap;
+- simulações de Monte Carlo;
+- diagnóstico de observações influentes e atípicas.
+
+### Computação estatística
+
+Implementação e avaliação de métodos estatísticos por meio de simulações e estudos computacionais.
+
+Temas associados:
+
+- R;
+- Python;
+- paralelização;
+- reprodutibilidade;
+- documentação de código;
+- experimentos de Monte Carlo.
+
+### Machine Learning e IA aplicada
+
+Uso de aprendizado de máquina e IA aplicada para análise de dados, automação, ensino e comunicação de resultados.
+
+Temas associados:
+
+- classificação;
+- regressão;
+- dados desbalanceados;
+- avaliação de modelos;
+- RAG;
+- agentes simples;
+- geração de relatórios com IA.

@@ -1,29 +1,94 @@
 ---
-title: "José Jairo de Santana e Silva"
+title: "Início"
+toc: false
 ---
+
+::: {.hero-grid}
+::: {.hero-text}
+# José Jairo de Santana e Silva
 
 ## Estatística, Machine Learning e IA Aplicada
 
-Doutor em Estatística, professor do ensino superior e pesquisador em modelos estatísticos,
-séries temporais, aprendizado de máquina e ciência de dados.
+Doutor em Estatística, professor do ensino superior e pesquisador em modelagem estatística, séries temporais, aprendizado de máquina e ciência de dados.
 
-Atuo com Estatística, Probabilidade, Machine Learning, Python, R, SQL, modelos para dados limitados,
-testes de especificação e aplicações de IA no ensino e na análise de dados.
+Atuo com Estatística, Probabilidade, Python, R, SQL, modelos para dados limitados, testes de especificação, ensino superior e aplicações de IA em análise de dados.
 
-### Áreas de interesse
+::: {.hero-buttons}
+[GitHub](https://github.com/silvajjairo){.btn .btn-primary}
+[LinkedIn](https://www.linkedin.com/in/jos%C3%A9-jairo-de-santana-e-silva-bba815286/){.btn .btn-outline}
+[Lattes](http://lattes.cnpq.br/6362072625585117){.btn .btn-outline}
+:::
+:::
 
-- Statistical modeling
-- Time series for bounded data
-- Machine learning
-- Data science
-- Applied artificial intelligence
-- Statistical education
-- Python, R and SQL
+::: {.hero-photo}
+![](images/profile-placeholder.svg){fig-alt="Foto de perfil"}
+:::
+:::
 
-### Projetos em destaque
+## Áreas de atuação
 
-- RUBXII-ARMA models for bounded time series
-- Information matrix tests for model specification
-- AI-assisted data analysis workflows
-- RAG assistants for academic documents
-- Computer vision teaching materials
+::: {.card-grid}
+::: {.card}
+### Modelagem estatística
+
+Modelos para dados limitados, séries temporais, regressão beta, distribuições flexíveis e inferência estatística.
+:::
+
+::: {.card}
+### Machine Learning
+
+Classificação, regressão, avaliação de modelos, dados desbalanceados, aprendizado estatístico e aplicações em Python.
+:::
+
+::: {.card}
+### IA aplicada
+
+Prompt engineering, RAG com documentos próprios, agentes simples, automação de relatórios e apoio à análise de dados.
+:::
+
+::: {.card}
+### Ensino superior
+
+Materiais didáticos, Probabilidade, Estatística, Bioestatística, Programação, SQL, Visão Computacional e Modelagem Computacional.
+:::
+:::
+
+## Projetos em destaque
+
+::: {.project-grid}
+::: {.project-card}
+### RUBXII-ARMA
+
+Modelos autorregressivos e de médias móveis para séries temporais no intervalo unitário, com aplicações em dados hidrológicos.
+
+**Tags:** séries temporais, dados limitados, R, inferência
+:::
+
+::: {.project-card}
+### Testes da matriz de informação
+
+Estudos de especificação de modelos baseados na igualdade da matriz de informação, com simulações de Monte Carlo e aplicações.
+
+**Tags:** testes de especificação, bootstrap, regressão beta
+:::
+
+::: {.project-card}
+### IA aplicada à análise de dados
+
+Fluxos com IA para análise exploratória, geração de código, documentação, relatórios e comunicação de resultados.
+
+**Tags:** IA, Python, R, SQL, dados
+:::
+
+::: {.project-card}
+### Assistente RAG acadêmico
+
+Protótipo de assistente para responder perguntas com base em documentos próprios, como slides, PDFs, artigos e listas.
+
+**Tags:** RAG, LLM, documentos, ensino
+:::
+:::
+
+## Em construção
+
+Este site está em desenvolvimento contínuo. A ideia é reunir trajetória acadêmica, projetos, publicações, materiais de ensino, códigos e notas técnicas.

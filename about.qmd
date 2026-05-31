@@ -1,0 +1,34 @@
+---
+title: "Sobre"
+---
+
+# Sobre
+
+Sou **José Jairo de Santana e Silva**, doutor em Estatística, professor do ensino superior e pesquisador em modelagem estatística, séries temporais, aprendizado de máquina e ciência de dados.
+
+Minha trajetória combina Estatística, Probabilidade, Computação, Ensino Superior e aplicações de IA. Tenho experiência com pesquisa acadêmica, desenvolvimento de materiais didáticos, programação em R e Python, simulações de Monte Carlo, modelagem estatística e análise de dados.
+
+## Interesses principais
+
+- Modelos estatísticos para dados no intervalo unitário.
+- Séries temporais com distribuições flexíveis.
+- Testes de especificação baseados na igualdade da matriz de informação.
+- Regressão beta e modelos relacionados.
+- Aprendizado de máquina e aprendizado estatístico.
+- Visão computacional aplicada ao ensino.
+- IA aplicada à análise de dados e à educação.
+- Python, R, SQL e automação de relatórios.
+
+## Formação e atuação
+
+- Doutor em Estatística.
+- Mestre em Estatística.
+- Licenciado em Matemática.
+- Experiência como professor no ensino superior.
+- Atuação em disciplinas de Estatística, Probabilidade, Bioestatística, Programação, Banco de Dados, Visão Computacional e Modelagem Computacional.
+
+## Links
+
+- [GitHub](https://github.com/silvajjairo)
+- [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-jairo-de-santana-e-silva-bba815286/)
+- [Currículo Lattes](http://lattes.cnpq.br/6362072625585117)

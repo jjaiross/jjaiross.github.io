@@ -1,0 +1,20 @@
+---
+title: "IA aplicada ao trabalho com dados"
+date: 2026-05-31
+categories: [IA, Dados, Ensino]
+---
+
+# IA aplicada ao trabalho com dados
+
+Este é um post inicial de exemplo. Você pode editar ou apagar depois.
+
+A ideia desta seção é registrar aprendizados, projetos e reflexões sobre o uso de IA em análise de dados, ensino e automação.
+
+## Possíveis temas
+
+- uso de IA para análise exploratória;
+- geração e revisão de código;
+- RAG com documentos próprios;
+- agentes simples;
+- avaliação e governança;
+- portfólio em GitHub.

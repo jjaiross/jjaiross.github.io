@@ -4,32 +4,55 @@ project:
 
 website:
   title: "José Jairo de Santana e Silva"
+  site-url: "https://silvajjairo.github.io"
+  description: "Site acadêmico e profissional de José Jairo de Santana e Silva"
   navbar:
+    title: "José Jairo"
     left:
-      - text: "About"
+      - text: "Início"
+        href: index.qmd
+      - text: "Sobre"
         href: about.qmd
-      - text: "Research"
+      - text: "Pesquisa"
         href: research.qmd
-      - text: "Projects"
+      - text: "Projetos"
         href: projects.qmd
-      - text: "Publications"
+      - text: "Publicações"
         href: publications.qmd
-      - text: "Teaching"
+      - text: "Ensino"
         href: teaching.qmd
-      - text: "Software & Code"
+      - text: "Código"
         href: software.qmd
-      - text: "Blog"
-        href: blog.qmd
+      - text: "Notas"
+        href: posts.qmd
       - text: "CV"
         href: cv.qmd
+      - text: "Contato"
+        href: contact.qmd
     right:
       - icon: github
         href: https://github.com/silvajjairo
+        aria-label: GitHub
       - icon: linkedin
         href: https://www.linkedin.com/in/jos%C3%A9-jairo-de-santana-e-silva-bba815286/
+        aria-label: LinkedIn
+  page-footer:
+    left: "© 2026 José Jairo de Santana e Silva"
+    right:
+      - text: "GitHub"
+        href: https://github.com/silvajjairo
+      - text: "Lattes"
+        href: http://lattes.cnpq.br/6362072625585117
 
 format:
   html:
-    theme: cosmo
+    theme:
+      light: cosmo
     css: styles.css
     toc: true
+    toc-depth: 3
+    page-layout: full
+    lang: pt-BR
+
+execute:
+  freeze: auto

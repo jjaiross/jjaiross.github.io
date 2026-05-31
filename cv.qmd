@@ -1,0 +1,25 @@
+---
+title: "CV"
+---
+
+# Curriculum Vitae
+
+Você pode acessar meu currículo nas plataformas abaixo:
+
+- [Currículo Lattes](http://lattes.cnpq.br/6362072625585117)
+- [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-jairo-de-santana-e-silva-bba815286/)
+- [GitHub](https://github.com/silvajjairo)
+
+## PDF
+
+Quando tiver uma versão em PDF do currículo, coloque o arquivo dentro da pasta `files/`, por exemplo:
+
+```text
+files/cv_jose_jairo.pdf
+```
+
+Depois substitua este trecho por:
+
+```markdown
+[Baixar CV em PDF](files/cv_jose_jairo.pdf)
+```

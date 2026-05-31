@@ -1,0 +1,108 @@
+---
+title: "Projetos"
+---
+
+# Projetos
+
+Esta página reúne projetos acadêmicos, computacionais e aplicados.
+
+::: {.project-grid}
+
+::: {.project-card}
+### RUBXII-ARMA
+
+Modelo autorregressivo e de médias móveis baseado na distribuição Burr XII unitária refletida para séries temporais no intervalo unitário.
+
+**Possíveis conteúdos da página:**
+
+- resumo do modelo;
+- artigo relacionado;
+- códigos de estimação;
+- aplicação em dados hidrológicos;
+- exemplos de previsão.
+
+**Tags:** séries temporais, dados limitados, inferência, R
+:::
+
+::: {.project-card}
+### Testes da matriz de informação
+
+Implementações e estudos de simulação para testes de especificação baseados na igualdade da matriz de informação.
+
+**Possíveis conteúdos da página:**
+
+- explicação do teste;
+- simulações;
+- comparação entre estatísticas;
+- bootstrap;
+- aplicações em regressão beta.
+
+**Tags:** especificação, bootstrap, Monte Carlo, regressão beta
+:::
+
+::: {.project-card}
+### Assistente de análise de dados com IA
+
+Fluxo de trabalho para análise exploratória com apoio de IA, incluindo geração de código, revisão, gráficos, relatório e limitações.
+
+**Possíveis conteúdos da página:**
+
+- entrada em CSV;
+- análise exploratória;
+- geração de gráficos;
+- relatório executivo;
+- validação das respostas.
+
+**Tags:** IA, ciência de dados, Python, R, SQL
+:::
+
+::: {.project-card}
+### RAG com documentos acadêmicos
+
+Protótipo de assistente para responder perguntas com base em documentos próprios, como slides, PDFs, artigos, listas e gabaritos.
+
+**Possíveis conteúdos da página:**
+
+- embeddings;
+- busca semântica;
+- recuperação de contexto;
+- respostas com base em fontes;
+- avaliação de respostas.
+
+**Tags:** RAG, LLM, documentos, ensino
+:::
+
+::: {.project-card}
+### Materiais de visão computacional
+
+Notebooks e materiais didáticos para ensino de visão computacional, incluindo segmentação, extração de características e classificação.
+
+**Possíveis conteúdos da página:**
+
+- OpenCV;
+- segmentação;
+- contornos;
+- extração de features;
+- classificação clássica;
+- CNNs e transfer learning.
+
+**Tags:** visão computacional, OpenCV, ensino, Python
+:::
+
+::: {.project-card}
+### Dashboards e análise para negócios
+
+Protótipos de dashboards e análises para pequenos negócios, com indicadores, curva ABC, vendas, estoque e recomendações.
+
+**Possíveis conteúdos da página:**
+
+- indicadores de negócio;
+- análise de vendas;
+- relatórios automatizados;
+- dashboards;
+- apoio à decisão.
+
+**Tags:** BI, dashboards, negócios, dados
+:::
+
+:::

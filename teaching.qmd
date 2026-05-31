@@ -1,0 +1,95 @@
+---
+title: "Ensino"
+---
+
+# Ensino
+
+Tenho experiência no ensino de disciplinas relacionadas a Estatística, Probabilidade, Programação, Ciência de Dados e Computação.
+
+## Disciplinas e áreas
+
+### Estatística
+
+Conteúdos:
+
+- estatística descritiva;
+- probabilidade;
+- variáveis aleatórias;
+- distribuições discretas e contínuas;
+- estimação;
+- testes de hipóteses;
+- regressão.
+
+### Probabilidade
+
+Conteúdos:
+
+- espaços amostrais;
+- eventos;
+- axiomas da probabilidade;
+- probabilidade condicional;
+- independência;
+- variáveis aleatórias;
+- esperança e variância;
+- distribuições de probabilidade.
+
+### Bioestatística
+
+Conteúdos:
+
+- estatística aplicada à saúde;
+- estudos observacionais;
+- testes de hipóteses;
+- intervalos de confiança;
+- comparação de grupos;
+- interpretação de resultados.
+
+### Programação em Python
+
+Conteúdos:
+
+- variáveis;
+- estruturas condicionais;
+- laços;
+- listas e dicionários;
+- funções;
+- pandas;
+- visualização de dados;
+- aplicações em ciência de dados.
+
+### Banco de Dados e SQL
+
+Conteúdos:
+
+- consultas;
+- filtros;
+- agrupamentos;
+- junções;
+- subconsultas;
+- indicadores;
+- análise de dados relacionais.
+
+### Visão Computacional
+
+Conteúdos:
+
+- imagens digitais;
+- filtros;
+- limiarização;
+- segmentação;
+- contornos;
+- extração de características;
+- classificação de imagens;
+- OpenCV.
+
+### Modelagem Computacional
+
+Conteúdos:
+
+- autômatos finitos;
+- expressões regulares;
+- linguagens regulares;
+- autômatos com pilha;
+- linguagens livres de contexto;
+- máquinas de Turing;
+- interpretadores e compiladores.

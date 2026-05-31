@@ -1,0 +1,46 @@
+---
+title: "Código"
+---
+
+# Software & Code
+
+Esta seção reúne códigos, notebooks, simulações e materiais computacionais.
+
+## Estatística e simulação
+
+- Implementações de modelos para dados limitados.
+- Simulações de Monte Carlo.
+- Testes de especificação.
+- Rotinas em R.
+- Scripts reprodutíveis.
+
+## Machine Learning
+
+- Projetos de classificação e regressão.
+- Análise exploratória de dados.
+- Avaliação de modelos.
+- Dados desbalanceados.
+- Python, scikit-learn e statsmodels.
+
+## Ensino computacional
+
+- Notebooks para aulas.
+- Exemplos em Python.
+- Exemplos em R.
+- Materiais de visão computacional.
+- Simuladores didáticos.
+- Códigos comentados para alunos.
+
+## IA aplicada
+
+- Prompts aplicados a dados e ensino.
+- Protótipos com RAG.
+- Agentes simples para análise de dados.
+- Relatórios automatizados.
+- Revisão de código com IA.
+
+## GitHub
+
+Os repositórios serão organizados e disponibilizados em:
+
+[https://github.com/silvajjairo](https://github.com/silvajjairo)

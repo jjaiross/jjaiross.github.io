@@ -1,0 +1,27 @@
+---
+title: "Publicações"
+---
+
+# Publicações
+
+Esta seção pode ser organizada por artigos publicados, preprints, trabalhos em andamento e materiais técnicos.
+
+## Artigos em periódicos
+
+### Autoregressive and moving average models for time series in the unit interval based on the Reflected Unit Burr XII distribution
+
+**Autores:** José Jairo de Santana e Silva, coautores.
+
+Este artigo propõe um modelo de séries temporais baseado na distribuição Burr XII unitária refletida para dados no intervalo unitário. O modelo descreve a mediana condicional por meio de uma estrutura dinâmica com termos autorregressivos, médias móveis, regressores e função de ligação.
+
+**Temas:** séries temporais, dados limitados, RUBXII, ARMA, máxima verossimilhança condicional.
+
+> Adicione aqui DOI, link para o artigo, PDF e código quando desejar.
+
+---
+
+## Trabalhos em andamento
+
+- Testes de especificação baseados na igualdade da matriz de informação.
+- Modelos para séries temporais bidimensionais.
+- Aplicações de IA em análise de dados e ensino.

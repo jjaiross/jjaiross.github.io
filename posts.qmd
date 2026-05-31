@@ -1,0 +1,24 @@
+---
+title: "Notas"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+---
+
+# Notas
+
+Esta seção pode ser usada como blog técnico ou caderno público de estudos.
+
+Ideias de textos:
+
+- Como uso IA para acelerar análise de dados.
+- Prompt engineering aplicado ao ensino.
+- RAG com documentos acadêmicos.
+- Regressão logística com dados desbalanceados.
+- Avaliação de modelos de classificação.
+- Testes de especificação em modelos estatísticos.
+- Python, R e SQL no fluxo de ciência de dados.
