@@ -3,8 +3,6 @@ title: "Código"
 description: "Códigos, notebooks, simulações e materiais computacionais em estatística, machine learning, ensino e IA aplicada."
 ---
 
-# Software & Code
-
 Esta seção reúne códigos, notebooks, simulações e materiais computacionais.
 
 ## Estatística e simulação

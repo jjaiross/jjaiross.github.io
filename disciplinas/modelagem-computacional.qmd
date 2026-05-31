@@ -3,8 +3,6 @@ title: "Modelagem Computacional"
 description: "Slides em PDF da disciplina Modelagem Computacional ministrada por José Jairo, com aulas sobre autômatos, linguagens formais, gramáticas e Máquinas de Turing."
 ---
 
-# Modelagem Computacional
-
 Materiais em PDF usados na disciplina de Modelagem Computacional.
 
 ## Slides

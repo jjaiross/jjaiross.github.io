@@ -3,8 +3,6 @@ title: "Programação de Computadores"
 description: "Slides em PDF da disciplina Programação de Computadores ministrada por José Jairo, com aulas sobre Python, estruturas de controle, funções, listas, dicionários e manipulação de arquivos."
 ---
 
-# Programação de Computadores
-
 Materiais em PDF usados na disciplina de Programação de Computadores, com foco em Python.
 
 ## Slides

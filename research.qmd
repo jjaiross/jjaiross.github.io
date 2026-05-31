@@ -3,8 +3,6 @@ title: "Pesquisa"
 description: "Linhas de pesquisa em séries temporais para dados limitados, testes de especificação, computação estatística e machine learning aplicado."
 ---
 
-# Pesquisa
-
 Minha pesquisa está concentrada em modelagem estatística, séries temporais, testes de especificação, inferência, simulação e aplicações computacionais.
 
 ## Linhas de pesquisa

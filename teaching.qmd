@@ -3,8 +3,6 @@ title: "Ensino"
 description: "Materiais didáticos e disciplinas ministradas por José Jairo em Estatística, Probabilidade, Bioestatística, Programação, SQL, Visão Computacional e Modelagem Computacional."
 ---
 
-# Ensino
-
 Tenho experiência no ensino de disciplinas relacionadas a Estatística, Probabilidade, Programação, Ciência de Dados e Computação.
 
 ## Materiais de disciplinas

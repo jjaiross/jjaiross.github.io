@@ -3,8 +3,6 @@ title: "CV"
 description: "Currículo acadêmico e profissional de José Jairo de Santana e Silva, com links para Lattes, LinkedIn e GitHub."
 ---
 
-# Curriculum Vitae
-
 [Baixar CV em PDF](files/cv_jose_jairo.pdf){.btn .btn-primary}
 
 Você também pode acessar meu currículo nas plataformas abaixo:

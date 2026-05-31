@@ -3,8 +3,6 @@ title: "Contato"
 description: "Canais de contato com José Jairo de Santana e Silva: GitHub, LinkedIn e Currículo Lattes."
 ---
 
-# Contato
-
 Você pode me encontrar nos canais abaixo:
 
 - GitHub: [jjaiross](https://github.com/jjaiross)

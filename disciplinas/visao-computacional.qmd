@@ -2,8 +2,6 @@
 title: "Visão Computacional"
 ---
 
-# Visão Computacional
-
 Materiais em PDF usados na disciplina de Visão Computacional.
 
 ## Slides

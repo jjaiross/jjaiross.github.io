@@ -10,8 +10,6 @@ listing:
   filter-ui: false
 ---
 
-# Notas
-
 Esta seção pode ser usada como blog técnico ou caderno público de estudos.
 
 Ideias de textos:

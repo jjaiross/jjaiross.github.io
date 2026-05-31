@@ -3,8 +3,6 @@ title: "Publicações"
 description: "Publicações em periódicos, preprints e trabalhos em andamento de José Jairo de Santana e Silva em modelagem estatística e séries temporais."
 ---
 
-# Publicações
-
 ## Artigos em periódicos
 
 ### A dynamical regression model for double-bounded time series based on the reflected unit Burr XII distribution

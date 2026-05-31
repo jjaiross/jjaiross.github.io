@@ -3,8 +3,6 @@ title: "Sobre"
 description: "Formação, trajetória acadêmica, áreas de atuação e interesses de pesquisa de José Jairo de Santana e Silva em Estatística, Computação e IA aplicada."
 ---
 
-# Sobre
-
 Sou **José Jairo de Santana e Silva**, doutor em Estatística, professor do ensino superior e pesquisador em modelagem estatística, séries temporais, aprendizado de máquina e ciência de dados.
 
 Minha trajetória combina Estatística, Probabilidade, Computação, Ensino Superior e aplicações de IA. Tenho experiência com pesquisa acadêmica, desenvolvimento de materiais didáticos, programação em R e Python, simulações de Monte Carlo, modelagem estatística e análise de dados.
