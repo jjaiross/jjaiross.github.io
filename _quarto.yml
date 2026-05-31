@@ -4,7 +4,7 @@ project:
 
 website:
   title: "José Jairo de Santana e Silva"
-  site-url: "https://jjaiross.github.io/josejairo.github.io/"
+  site-url: "https://jjaiross.github.io"
   description: "Site acadêmico e profissional de José Jairo de Santana e Silva"
   navbar:
     title: "José Jairo"

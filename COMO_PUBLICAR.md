@@ -17,7 +17,7 @@ cd site_jose_jairo_quarto
 No GitHub, crie um repositório chamado:
 
 ```text
-josejairo.github.io
+jjaiross.github.io
 ```
 
 Deixe como público.
@@ -31,7 +31,7 @@ git init
 git add .
 git commit -m "Create personal website"
 git branch -M main
-git remote add origin https://github.com/jjaiross/josejairo.github.io.git
+git remote add origin https://github.com/jjaiross/jjaiross.github.io.git
 git push -u origin main
 ```
 
@@ -62,7 +62,7 @@ Publish Quarto Website
 Quando ele terminar, o site ficará disponível em:
 
 ```text
-https://jjaiross.github.io/josejairo.github.io/
+https://jjaiross.github.io
 ```
 
 ## 6. Para alterar depois

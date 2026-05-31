@@ -43,7 +43,7 @@ Edite nesta ordem:
 Crie um repositório com o nome:
 
 ```text
-josejairo.github.io
+jjaiross.github.io
 ```
 
 Se seu usuário do GitHub for outro, use:
@@ -61,7 +61,7 @@ git init
 git add .
 git commit -m "Create personal website"
 git branch -M main
-git remote add origin https://github.com/jjaiross/josejairo.github.io.git
+git remote add origin https://github.com/jjaiross/jjaiross.github.io.git
 git push -u origin main
 ```
 
@@ -84,7 +84,7 @@ O arquivo `.github/workflows/publish.yml` vai renderizar o site automaticamente.
 Depois de alguns minutos, o site deve aparecer em:
 
 ```text
-https://jjaiross.github.io/josejairo.github.io/
+https://jjaiross.github.io
 ```
 
 ## Como testar localmente com Quarto
