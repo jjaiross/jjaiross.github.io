@@ -4,3 +4,5 @@
 *.html
 *.log
 .DS_Store
+
+**/*.quarto_ipynb

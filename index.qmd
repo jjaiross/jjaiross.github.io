@@ -21,7 +21,7 @@ Atuo com Estatística, Probabilidade, Python, R, SQL, modelos para dados limitad
 :::
 
 ::: {.hero-photo}
-![](images/profile-placeholder.svg){fig-alt="Foto de perfil"}
+![](images/foto-jose-jairo.jpeg){fig-alt="Foto de José Jairo"}
 :::
 :::
 
