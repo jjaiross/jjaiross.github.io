@@ -14,7 +14,7 @@ Doutor em Estatística, professor do ensino superior e pesquisador em modelagem 
 Atuo com Estatística, Probabilidade, Python, R, SQL, modelos para dados limitados, testes de especificação, ensino superior e aplicações de IA em análise de dados.
 
 ::: {.hero-buttons}
-[GitHub](https://github.com/silvajjairo){.btn .btn-primary}
+[GitHub](https://github.com/jjaiross){.btn .btn-primary}
 [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-jairo-de-santana-e-silva-bba815286/){.btn .btn-outline}
 [Lattes](http://lattes.cnpq.br/6362072625585117){.btn .btn-outline}
 :::

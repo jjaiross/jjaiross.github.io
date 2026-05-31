@@ -43,4 +43,4 @@ Esta seção reúne códigos, notebooks, simulações e materiais computacionais
 
 Os repositórios serão organizados e disponibilizados em:
 
-[https://github.com/silvajjairo](https://github.com/silvajjairo)
+[https://github.com/jjaiross](https://github.com/jjaiross)

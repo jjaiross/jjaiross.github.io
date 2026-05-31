@@ -43,7 +43,7 @@ Edite nesta ordem:
 Crie um repositório com o nome:
 
 ```text
-silvajjairo.github.io
+josejairo.github.io
 ```
 
 Se seu usuário do GitHub for outro, use:
@@ -61,11 +61,11 @@ git init
 git add .
 git commit -m "Create personal website"
 git branch -M main
-git remote add origin https://github.com/silvajjairo/silvajjairo.github.io.git
+git remote add origin https://github.com/jjaiross/josejairo.github.io.git
 git push -u origin main
 ```
 
-Troque `silvajjairo` pelo seu usuário do GitHub, se for diferente.
+Troque `jjaiross` pelo seu usuário do GitHub, se for diferente.
 
 ### 3. Configure o GitHub Pages
 
@@ -84,7 +84,7 @@ O arquivo `.github/workflows/publish.yml` vai renderizar o site automaticamente.
 Depois de alguns minutos, o site deve aparecer em:
 
 ```text
-https://silvajjairo.github.io
+https://jjaiross.github.io/josejairo.github.io/
 ```
 
 ## Como testar localmente com Quarto
