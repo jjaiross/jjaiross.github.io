@@ -1,0 +1,35 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "José Jairo de Santana e Silva"
+  navbar:
+    left:
+      - text: "About"
+        href: about.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "Projects"
+        href: projects.qmd
+      - text: "Publications"
+        href: publications.qmd
+      - text: "Teaching"
+        href: teaching.qmd
+      - text: "Software & Code"
+        href: software.qmd
+      - text: "Blog"
+        href: blog.qmd
+      - text: "CV"
+        href: cv.qmd
+    right:
+      - icon: github
+        href: https://github.com/silvajjairo
+      - icon: linkedin
+        href: https://www.linkedin.com/in/jos%C3%A9-jairo-de-santana-e-silva-bba815286/
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
