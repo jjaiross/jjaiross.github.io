@@ -1,5 +1,6 @@
 ---
 title: "Ensino"
+description: "Materiais didáticos e disciplinas ministradas por José Jairo em Estatística, Probabilidade, Bioestatística, Programação, SQL, Visão Computacional e Modelagem Computacional."
 ---
 
 # Ensino
@@ -13,6 +14,18 @@ Tenho experiência no ensino de disciplinas relacionadas a Estatística, Probabi
 ### [Visão Computacional](disciplinas/visao-computacional.qmd)
 
 Slides em PDF sobre fundamentos de imagens digitais, segmentação, filtros, contornos, extração de características, classificação e OpenCV.
+:::
+
+::: {.card}
+### [Modelagem Computacional](disciplinas/modelagem-computacional.qmd)
+
+Slides em PDF sobre autômatos finitos, linguagens regulares, autômatos com pilha, gramáticas livres de contexto e Máquinas de Turing.
+:::
+
+::: {.card}
+### [Programação de Computadores](disciplinas/programacao-computadores.qmd)
+
+Slides em PDF sobre Python, estruturas condicionais, laços, listas, tuplas, matrizes, dicionários, funções e manipulação de arquivos.
 :::
 :::
 

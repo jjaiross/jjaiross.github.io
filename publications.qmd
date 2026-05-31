@@ -1,22 +1,79 @@
 ---
 title: "Publicações"
+description: "Publicações em periódicos, preprints e trabalhos em andamento de José Jairo de Santana e Silva em modelagem estatística e séries temporais."
 ---
 
 # Publicações
 
-Esta seção pode ser organizada por artigos publicados, preprints, trabalhos em andamento e materiais técnicos.
-
 ## Artigos em periódicos
 
-### Autoregressive and moving average models for time series in the unit interval based on the Reflected Unit Burr XII distribution
+### A dynamical regression model for double-bounded time series based on the reflected unit Burr XII distribution
 
-**Autores:** José Jairo de Santana e Silva, coautores.
+**Autores:** Tatiane Fontana Ribeiro, Fábio M. Bayer, Fernando A. Peña-Ramírez, Renata Rojas Guerra, Airlane P. Alencar, José Jairo de Santana-e-Silva.
 
-Este artigo propõe um modelo de séries temporais baseado na distribuição Burr XII unitária refletida para dados no intervalo unitário. O modelo descreve a mediana condicional por meio de uma estrutura dinâmica com termos autorregressivos, médias móveis, regressores e função de ligação.
+**Periódico:** *Environmental and Ecological Statistics*, v. 33, n. 1, p. 195-220, 2026.
+
+**DOI:** [10.1007/s10651-026-00703-y](https://doi.org/10.1007/s10651-026-00703-y)
+
+Este artigo propõe um modelo de séries temporais baseado na distribuição Burr XII unitária refletida para dados no intervalo unitário. O modelo descreve a mediana condicional por meio de uma estrutura dinâmica com termos autorregressivos, médias móveis, regressores e função de ligação. A estimação dos parâmetros é feita por máxima verossimilhança condicional.
 
 **Temas:** séries temporais, dados limitados, RUBXII, ARMA, máxima verossimilhança condicional.
 
-> Adicione aqui DOI, link para o artigo, PDF e código quando desejar.
+---
+
+### New strategies for detecting atypical observations based on the information matrix equality
+
+**Autores:** Francisco Cribari-Neto, Klaus L. P. Vasconcellos, José Jairo Santana-e-Silva.
+
+**Periódico:** *Journal of Applied Statistics*, v. 52, n. 15, p. 2873-2893, 2025.
+
+**DOI:** [10.1080/02664763.2025.2487914](https://doi.org/10.1080/02664763.2025.2487914)
+
+Propõe novas estratégias para detecção de observações atípicas em modelos paramétricos, baseadas na igualdade da matriz de informação. As propostas são avaliadas via simulações de Monte Carlo e aplicações empíricas.
+
+**Temas:** observações atípicas, matriz de informação, diagnóstico, regressão.
+
+---
+
+### Beta regression misspecification tests
+
+**Autores:** Francisco Cribari-Neto, José Jairo Santana-e-Silva, Klaus L. P. Vasconcellos.
+
+**Periódico:** *Journal of Statistical Planning and Inference*, v. 233, p. 106193, 2024.
+
+**DOI:** [10.1016/j.jspi.2024.106193](https://doi.org/10.1016/j.jspi.2024.106193)
+
+Apresenta testes de especificação para o modelo de regressão beta com base na igualdade da matriz de informação, avaliando o desempenho em amostras finitas por simulação e em dados reais.
+
+**Temas:** regressão beta, testes de especificação, matriz de informação, Monte Carlo.
+
+---
+
+### Beta distribution misspecification tests with application to Covid-19 mortality rates in the United States
+
+**Autores:** José Jairo Santana-e-Silva, Francisco Cribari-Neto, Klaus L. P. Vasconcellos.
+
+**Periódico:** *PLOS ONE*, v. 17, n. 9, e0274781, 2022.
+
+**DOI:** [10.1371/journal.pone.0274781](https://doi.org/10.1371/journal.pone.0274781)
+
+Propõe testes de especificação para a distribuição beta com aplicação a taxas de mortalidade por Covid-19 nos Estados Unidos. Os testes são avaliados por simulação de Monte Carlo.
+
+**Temas:** distribuição beta, testes de especificação, Covid-19, taxas limitadas.
+
+---
+
+### The Mc-Donald Chen distribution: A new bimodal distribution with properties and applications
+
+**Autores:** Lucas D. Ribeiro-Reis, Gauss M. Cordeiro, José Jairo de Santana e Silva.
+
+**Periódico:** *Chilean Journal of Statistics*, v. 13, n. 1, 2022.
+
+**DOI:** [10.32372/chjs.13-01-05](https://doi.org/10.32372/chjs.13-01-05)
+
+Introduz a distribuição Mc-Donald Chen, uma família bimodal flexível, com propriedades estatísticas, métodos de estimação e aplicações a dados reais.
+
+**Temas:** distribuição bimodal, famílias generalizadas, estimação, aplicações.
 
 ---
 

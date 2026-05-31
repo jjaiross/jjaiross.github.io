@@ -1,0 +1,28 @@
+---
+title: "Modelagem Computacional"
+description: "Slides em PDF da disciplina Modelagem Computacional ministrada por José Jairo, com aulas sobre autômatos, linguagens formais, gramáticas e Máquinas de Turing."
+---
+
+# Modelagem Computacional
+
+Materiais em PDF usados na disciplina de Modelagem Computacional.
+
+## Slides
+
+- [Aula 02 - Modelagem Computacional](../files/disciplinas/modelagem-computacional/aula-02-modelagem-computacional.pdf)
+- [Aula 03 - Modelagem Computacional](../files/disciplinas/modelagem-computacional/aula-03-modelagem-computacional.pdf)
+- [Aula 04 - Modelagem Computacional](../files/disciplinas/modelagem-computacional/aula-04-modelagem-computacional.pdf)
+- [Aula 05 - Modelagem Computacional](../files/disciplinas/modelagem-computacional/aula-05-modelagem-computacional.pdf)
+- [Aula 06 - Modelagem Computacional](../files/disciplinas/modelagem-computacional/aula-06-modelagem-computacional.pdf)
+- [Aula 07 - Modelagem Computacional](../files/disciplinas/modelagem-computacional/aula-07-modelagem-computacional.pdf)
+- [Aula 08 - Modelagem Computacional](../files/disciplinas/modelagem-computacional/aula-08-modelagem-computacional.pdf)
+
+## Conteúdos
+
+- autômatos finitos;
+- expressões regulares;
+- linguagens regulares;
+- autômatos com pilha;
+- linguagens livres de contexto;
+- máquinas de Turing;
+- interpretadores e compiladores.

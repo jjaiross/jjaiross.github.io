@@ -1,5 +1,6 @@
 ---
 title: "Notas"
+description: "Notas técnicas e textos de José Jairo sobre estatística, ciência de dados, machine learning e IA aplicada."
 listing:
   contents: posts
   sort: "date desc"

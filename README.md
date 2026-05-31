@@ -1,4 +1,4 @@
-# Site pessoal — José Jairo de Santana e Silva
+# Site pessoal de José Jairo de Santana e Silva
 
 Este repositório contém um site pessoal/acadêmico feito com **Quarto** e preparado para ser publicado no **GitHub Pages**.
 
@@ -28,13 +28,13 @@ site_jose_jairo_quarto/
 
 Edite nesta ordem:
 
-1. `index.qmd` — página inicial.
-2. `about.qmd` — sobre você.
-3. `projects.qmd` — seus projetos.
-4. `publications.qmd` — suas publicações.
-5. `teaching.qmd` — disciplinas e materiais.
-6. `cv.qmd` — currículo.
-7. `contact.qmd` — contato.
+1. `index.qmd`, página inicial.
+2. `about.qmd`, sobre você.
+3. `projects.qmd`, seus projetos.
+4. `publications.qmd`, suas publicações.
+5. `teaching.qmd`, disciplinas e materiais.
+6. `cv.qmd`, currículo.
+7. `contact.qmd`, contato.
 
 ## Como publicar no GitHub
 

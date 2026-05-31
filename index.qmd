@@ -1,5 +1,6 @@
 ---
 title: "Início"
+description: "Site acadêmico de José Jairo de Santana e Silva, doutor em Estatística, professor e pesquisador em modelagem estatística, séries temporais, machine learning e IA aplicada."
 toc: false
 ---
 
@@ -17,6 +18,7 @@ Atuo com Estatística, Probabilidade, Python, R, SQL, modelos para dados limitad
 [GitHub](https://github.com/jjaiross){.btn .btn-primary}
 [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-jairo-de-santana-e-silva-bba815286/){.btn .btn-outline}
 [Lattes](http://lattes.cnpq.br/6362072625585117){.btn .btn-outline}
+[Google Scholar](https://scholar.google.com.br/citations?user=g5UrivUAAAAJ){.btn .btn-outline}
 :::
 :::
 
@@ -88,7 +90,3 @@ Protótipo de assistente para responder perguntas com base em documentos própri
 **Tags:** RAG, LLM, documentos, ensino
 :::
 :::
-
-## Em construção
-
-Este site está em desenvolvimento contínuo. A ideia é reunir trajetória acadêmica, projetos, publicações, materiais de ensino, códigos e notas técnicas.

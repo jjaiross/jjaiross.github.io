@@ -1,0 +1,28 @@
+---
+title: "Programação de Computadores"
+description: "Slides em PDF da disciplina Programação de Computadores ministrada por José Jairo, com aulas sobre Python, estruturas de controle, funções, listas, dicionários e manipulação de arquivos."
+---
+
+# Programação de Computadores
+
+Materiais em PDF usados na disciplina de Programação de Computadores, com foco em Python.
+
+## Slides
+
+- [Kernel e interpretador](../files/disciplinas/programacao-computadores/aula-kernel-vscode.pdf)
+- [Aulas 05 e 06 - Condicionais e Repetição](../files/disciplinas/programacao-computadores/aula-05-06-condicionais-repeticao.pdf)
+- [Aulas 07 e 08 - Funções](../files/disciplinas/programacao-computadores/aula-07-08-funcoes.pdf)
+- [Listas, Tuplas e Matrizes](../files/disciplinas/programacao-computadores/aula-listas-tuplas-matrizes.pdf)
+- [Dicionários](../files/disciplinas/programacao-computadores/aula-dicionarios.pdf)
+- [Manipulação de Arquivos](../files/disciplinas/programacao-computadores/aula-manipulacao-arquivos.pdf)
+
+## Conteúdos
+
+- variáveis;
+- estruturas condicionais;
+- laços;
+- listas, tuplas e matrizes;
+- dicionários;
+- funções;
+- manipulação de arquivos;
+- aplicações em ciência de dados.

@@ -1,5 +1,6 @@
 ---
 title: "Projetos"
+description: "Projetos acadêmicos e computacionais em modelagem estatística, séries temporais, IA aplicada, RAG, visão computacional e análise de dados."
 ---
 
 # Projetos

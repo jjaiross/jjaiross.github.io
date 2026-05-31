@@ -5,7 +5,11 @@ project:
 website:
   title: "José Jairo de Santana e Silva"
   site-url: "https://jjaiross.github.io"
-  description: "Site acadêmico e profissional de José Jairo de Santana e Silva"
+  description: "Site acadêmico e profissional de José Jairo de Santana e Silva, doutor em Estatística, professor e pesquisador em modelagem estatística, séries temporais e machine learning."
+  open-graph:
+    locale: pt_BR
+    site-name: "José Jairo de Santana e Silva"
+  twitter-card: true
   navbar:
     title: "José Jairo"
     left:

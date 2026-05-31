@@ -1,5 +1,6 @@
 ---
 title: "Código"
+description: "Códigos, notebooks, simulações e materiais computacionais em estatística, machine learning, ensino e IA aplicada."
 ---
 
 # Software & Code

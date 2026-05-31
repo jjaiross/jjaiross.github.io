@@ -1,5 +1,6 @@
 ---
 title: "Sobre"
+description: "Formação, trajetória acadêmica, áreas de atuação e interesses de pesquisa de José Jairo de Santana e Silva em Estatística, Computação e IA aplicada."
 ---
 
 # Sobre

@@ -1,5 +1,6 @@
 ---
 title: "Pesquisa"
+description: "Linhas de pesquisa em séries temporais para dados limitados, testes de especificação, computação estatística e machine learning aplicado."
 ---
 
 # Pesquisa
